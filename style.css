@@ -1,0 +1,8 @@
+/*** @export "idiotest" css */
+div.test {
+    background: silver;
+    border: 1px dotted black;
+    border-radius: 5px;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}

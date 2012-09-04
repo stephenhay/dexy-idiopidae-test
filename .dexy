@@ -1,0 +1,7 @@
+{
+  "index.markdown|pandoc|jinja|hd|ft" : {
+    "allinputs" : true
+  },
+  "*.css|idio" : {},
+  "_*.html" : {}
+}
