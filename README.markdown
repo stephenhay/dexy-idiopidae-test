@@ -15,7 +15,7 @@ If we want to export portions of the compiled CSS, I propose a syntax similar to
 
 Ana's [idiopidae-fork](https://bitbucket.org/ananelson/idiopidae-fork/src) should allow for the following format:
 
-    /*** @ export "example" lang */
+    /*** @export "example" lang */
 
 where `lang` is the language of the exported code (in our case CSS). The language attribute is required.
 
