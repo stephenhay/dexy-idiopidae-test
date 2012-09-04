@@ -1,5 +1,5 @@
 {
-  "index.markdown|pandoc|jinja|hd|ft" : {
+  "index.markdown|pandoc|hd|ft|jinja" : {
     "allinputs" : true
   },
   "*.css|idio" : {},
